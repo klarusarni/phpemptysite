@@ -2,7 +2,7 @@
 print("HW16");
 
 $ble = false;
-$ble = getenv("SIGGI");
+$ble = getenv("COMPUTERNAME");
 
 if(!$ble)
 {
